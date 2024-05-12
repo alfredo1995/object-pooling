@@ -1,5 +1,3 @@
-Implementação de um sistema de pooling de objetos no Unity usando C#
-
 O Pool de Objetos é um padrão de design de criação que pré-instancia todos os objetos que você precisará em qualquer momento específico antes do jogo. 
 Isso elimina a necessidade de criar novos objetos ou destruir os antigos enquanto o jogo está em execução.
 
