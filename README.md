@@ -1,4 +1,4 @@
-O Pool de Objetos é um padrão de design de criação que pré-instancia todos os objetos que você precisará em qualquer momento específico antes do jogo. 
+# O Pool de Objetos é um padrão de design de criação que pré-instancia todos os objetos que você precisará em qualquer momento específico antes do jogo. 
         
     Isso elimina a necessidade de criar novos objetos ou destruir os antigos enquanto o jogo está em execução.
     A coleta de lixo é uma técnica de gerenciamento automático de memória usada em linguagens de programação para recuperar a memória ocupada por objetos que não estão mais em uso pelo programa.
