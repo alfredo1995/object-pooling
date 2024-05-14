@@ -4,7 +4,7 @@ O Pool de Objetos é um padrão de design de criação que pré-instancia todos 
     A coleta de lixo é uma técnica de gerenciamento automático de memória usada em linguagens de programação para recuperar a memória ocupada por objetos que não estão mais em uso pelo programa.
     O purColocar a coleta de lixo é liberar os desenvolvedores do gerenciamento manual de memória, reduzindo o risco de vazamentos de memória e ponteiros pendurados.
 
-Header é um atributo utilizado para adicionar um cabeçalho personalizado na interface do Inspector para fornecer uma melhor organização e legibilidade das propriedades do script.
+Header é um atributo utilizado para adicionar um cabeçalho personalizado na interface do Inspector
 
     [Header("Define qual o objeto que irá compor o pool")]
     [SerializeField] private GameObject prefab;
