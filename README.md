@@ -8,7 +8,7 @@
 
 Declaro um Header como atributo utilizado para adicionar um cabeçalho personalizado na interface do Inspector
 
-    [Header("Define qual o objeto que irá compor o pool")]
+    [Header("Define qual o objeto que irá compor o pool")] 
     [SerializeField] private GameObject prefab;
 
 Declaro uma variável privada chamada prefab do tipo GameObject que será usado para definir qual objeto será utilizado para formar o pool.
